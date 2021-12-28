@@ -1,5 +1,5 @@
 ### Hi there 👋 - I'm Daniel
-A computer science student with an interest in math and data science. 
+A computer science student with an addition interest in math. 
 
 ### Programming Languages
 - As seen from my profile, my main/preferred language is Python
