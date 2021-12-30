@@ -2,10 +2,11 @@
 A computer science student with an addition interest in mathematics.
 
 ### Programming Languages
-- as seen from my profile, my main/preferred language is Python
-- however, Im also strong in Java and C (and intermediate level at C++
-- I'm comfortable writing queries with SQL
-- I'm also familiar with native javascript/html/css but prefer using React.js
+- Python - my main/preferred language as seen from my profile
+- Java - strong in Java and have used it within the context of three different university courses.
+- C++ - (and C) have used for competitive programming (self study) and then later in one of my university courses
+- SQL - comfortable writing queries with SQL (from a university course )
+- Javascript - I'm familiar with native javascript/html/css (self study) but prefer using React.js (also self study)
 
 ## What my projects are about
 - alot of the projects are just maifestations of my interest in different areas of computation
