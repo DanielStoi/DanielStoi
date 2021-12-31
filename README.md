@@ -1,5 +1,7 @@
-### Hi there 👋 - I'm Daniel
-A computer science student with an addition interest in mathematics.
+### Hi there 👋 - I'm Daniel, A computer science student
+
+ I've made an effort to keep all my [repositories](https://github.com/DanielStoi?tab=repositories) in a presentable form with detailed README's containing screenshots of the different functionalities. I generally do not show off my school projects as it often requires explicit permission. I also tend not to show off my smaller projects or experiments, although some of my earlier projects are in my [short projects repository](https://github.com/DanielStoi/short-projects).
+
 
 ### Programming Languages
 - Python - my main/preferred language as seen from my profile
@@ -9,10 +11,7 @@ A computer science student with an addition interest in mathematics.
 - Javascript - I'm familiar with native javascript/html/css (self study) but prefer using React.js (also self study)
 
 ## What my projects are about
-- alot of the projects are just maifestations of my interest in different areas of computation
+a lot of the projects are just manifestations of my interest in different areas of computation
 - some are just proof of concept from an idea that I have
-- others are just me trying to learn or aquire a deeper understanding about some technology
+- others are just me trying to learn or acquire a deeper understanding about some technology
 
-## Most impressive project?
-- from a standpoint of logical complexity, it would be my [modular arithetic sorting compiler](https://github.com/DanielStoi/short-projects/blob/master/modular_arithmetic_sorting_compiler.py) although it's less than 100 lines of code
-- as a feat of software engineering a [python flask webapp](https://github.com/DanielStoi/visual_and_audio_media_webapp) as part of a group project
