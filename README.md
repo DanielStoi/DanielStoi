@@ -10,7 +10,8 @@ A computer science student with an addition interest in mathematics.
 
 ## What my projects are about
 - alot of the projects are just maifestations of my interest in different areas of computation
-- some are just proof of concept from some idea that I have
+- some are just proof of concept from an idea that I have
+- others are just me trying to learn or aquire a deeper understanding about some technology
 
 ## Most impressive project?
 - from a standpoint of logical complexity, it would be my [modular arithetic sorting compiler](https://github.com/DanielStoi/short-projects/blob/master/modular_arithmetic_sorting_compiler.py) although it's less than 100 lines of code
