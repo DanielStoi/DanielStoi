@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm Daniel, A computer science student
 
- I've made an effort to keep all my [repositories](https://github.com/DanielStoi?tab=repositories) in a presentable form with detailed README's containing screenshots of the different functionalities. I generally do not show off my school projects as it often requires explicit permission. I also tend not to show off my smaller projects or experiments, although some of my earlier projects are in my [short projects repository](https://github.com/DanielStoi/short-projects).
+ I've made an effort to keep all my [repositories](https://github.com/DanielStoi?tab=repositories) in a presentable form with detailed README's containing screenshots of the different functionalities. I generally do not post my school projects as it often requires explicit permission. I also tend not to show my smaller projects or experiments, although some of my earlier projects are in my [short projects repository](https://github.com/DanielStoi/short-projects).
 
 
 ### Programming Languages
